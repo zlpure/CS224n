@@ -1,11 +1,9 @@
-## My Solution of Assignments of CCS224n
-This is my solution of three assignments of CS224n.
+## My Solution to Assignments of CCS224n
+This is my solution to three assignments of CS224n.
 [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) is
-an interesting class, which teaches you to 
-learn Natural language processing. This class provides some insights of cutting-edge research in deep learning applied to NLP. It covers word vector representations, window-based neural networks, recurrent neural networks, long-short-term-memory models, recursive neural networks, convolutional neural networks as well as some recent models involving a memory component.
+an interesting class, which teaches you how to do Natural Language Processing. This class provides some insights into cutting-edge researches in deep learning applied to NLP. It covers word vector representations, window-based neural networks, recurrent neural networks, long-short-term-memory models, recursive neural networks, convolutional neural networks as well as some recent models involving a memory component.
 ******
-**Note:** If you consult my code that you may want to incorporate into your strategy or algorithm, 
-so long as you clearly cite your sources in your code and your writeup.
+**Note:** If you consult my source codes that you may want to incorporate into your algorithm or system, you should clearly cite references in your codes.
 ******
 
 ## Table of Contents
